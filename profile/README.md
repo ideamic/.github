@@ -32,7 +32,7 @@ We believe in using the right tools for the right job. Our core technology stack
 -   **Backend:** Node.js, Python (Django/FastAPI), Go
 -   **Database:** PostgreSQL, MongoDB, Redis, MySQL
 -   **Cloud & DevOps:** AWS, Google Cloud, Vercel, Docker, Kubernetes, Terraform
--   **Project Management:** GitHub, Jira, Slack, Notion
+-   **Project Management:** GitHub, Jira, Notion
 
 ## ✨ Our Projects
 
